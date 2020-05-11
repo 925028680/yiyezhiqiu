@@ -7,7 +7,7 @@ public class Demo {
         System.out.println("are you good");//第二次修改
 
         System.out.println("--------");//123456
-        System.out.println("you are good");
+        System.out.println("you are good");//789789
 
     }
 }
