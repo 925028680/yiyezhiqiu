@@ -4,7 +4,7 @@ public class Demo {
 
         System.out.println("say hello how are you?");
         System.out.println("I am fine");//我是程序员A/.111
-        System.out.println("are you good");
+        System.out.println("are you good");//第二次修改
 
         System.out.println("--------");
         System.out.println("you are good");
